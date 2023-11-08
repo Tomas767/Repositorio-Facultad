@@ -518,7 +518,7 @@ J. Listar todos los superhéroes agrupados por color de ojos.
 K. Listar todos los superhéroes agrupados por tipo de inteligencia
 
 opcion deseada: """)
-        
+
         match(opcion_deseada):
             case "A":
                 datos, bandera_1 = stark_normalizar_datos(lista_personajes)

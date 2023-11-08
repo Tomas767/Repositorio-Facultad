@@ -263,4 +263,3 @@ def mayor(datos: list, comparador: int, indicador: int, elemento: str, elemento2
                     list_elements2.append(dato[elemento2])
 
     return list_elements, list_elements2
-
